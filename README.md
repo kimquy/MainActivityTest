@@ -1,7 +1,7 @@
 #Android Test Project with Robotium
 
-*[Long Nguyen](http://kimquy.github.com)
+* [Long Nguyen](http://kimquy.github.com)
 
 
 #Resource
-*[Robotium](http://code.google.com/p/robotium)
+* [Robotium](http://code.google.com/p/robotium)
